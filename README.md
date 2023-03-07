@@ -20,10 +20,17 @@ Here are some ideas to get you started:
 <p align="center">
   I'm <b>Artur Marschenkulov</b>, live in <b>Hamburg, Germany</b> and a Student in the <b>Hamburg University of Technology (TUHH)</b> right now.
 
+Among my interests are:
+- My interests are **Graphics Programming**. [JadeFrame](https://github.com/ArturMarschenkulov/JadeFrame) is a personal project written in **C++**, where I implement a graphics framework/engine from scratch for education purposes (no GLFW, SDL etc). One of the main goals is to abstract over various Graphics APIs, such as **OpenGL**, **Vulkan**, **D3D11**, **D3D12** and **software rendering** (only **OpenGL** and **Vulkan** right now).
 
-I have a strong interest in low-level graphics programming. My expertise includes C++, OpenGL, and Vulkan, with a basic understanding of Direct3D that can be easily transferred. I have experience programming in both Linux and Windows environments, with a solid understanding of Linux that can be applied to MacOS as well.
+- **Low-level programming** close to the silicon/metal, be it CPU and GPU.
+  
+- Learning about **programming languages concepts** and creating **programming languages**. [Ice](https://github.com/ArturMarschenkulov/ice-lang-rust) is a programming language written in **Rust**. The goal is to create a strong statically typed language.
 
-In addition to graphics programming, I am also passionate about programming language development and have beginner to intermediate knowledge of front-end web development using React and Typescript. I am highly proficient in Rust and Haskell and have working knowledge of Python, Julia, C#, Ocaml, Java, and Swift, allowing me to quickly transfer my skills to new languages.
+- **Circassian** language. I'm pationate about helping to make the language easier to learn for everybody. [Circassian](https://github.com/ArturMarschenkulov/circassian) is a repo about gathering general information. There I'm also writing a Circassian verb conjugator in **Rust**, for a language with a very complex verbal morphology. I'm  a hobby linguist.
+
+I'm a programming language connoisseur, and I'm always interested in learning about new languages. I have dabbled in languages like Python, Haskell, Julia, C#, Java, Swift, Ocaml, etc. with descending order of exposure.
+
 </p>
 
 
@@ -45,8 +52,6 @@ In addition to graphics programming, I am also passionate about programming lang
 <img src="logos/vulkan.svg" height="50">
 <img src="logos/opengl.svg" height="50">
 <img src="logos/react.svg" height="50">
-
-![Snake animation](https://github.com/ArturMarschenkulov/ArturMarschenkulov/blob/output/github-contribution-grid-snake.svg)
   
 
 
@@ -55,10 +60,10 @@ In addition to graphics programming, I am also passionate about programming lang
   <img src="https://github-profile-trophy.vercel.app/?username=ArturMarschenkulov&row=1">
 </p>
 
-<h2 align="center">Profile Statistics</b>
+<!-- <h2 align="center">Profile Statistics</b>
 <p align="center">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=ArturMarschenkulov&theme=blue-green" width="400" /></br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturMarschenkulov&theme=blue-green">
-</p>
+</p> -->
 </p>
